@@ -2,7 +2,7 @@ Forked from Robert A. Gonsalves' [repo](https://github.com/robgon-art/DeepLimeri
 
 More info can be found at [the huggingface.co repo for this project](https://huggingface.co/pcalhoun/gpt-j-6b-limericks-finetuned), where I'll maintain the latest bf16 weights as fine tuning progresses.
 
-I've also added a gradio app so that anyone with sufficient GPU RAM should be able to share the interface over the web.
+I've also added a gradio app so that anyone with sufficient GPU RAM to load the model for inference should also be able to share the interface over the web.
 
 ---
 
